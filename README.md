@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/varijadari1028-lang/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/varijadari1028-lang/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
