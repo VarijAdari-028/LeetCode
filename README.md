@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/varijadari1028-lang/LeetCode/tree/master/0006-zigzag-conversion) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
 |  |
 | ------- |
@@ -40,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/varijadari1028-lang/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
