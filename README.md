@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/varijadari1028-lang/LeetCode/tree/master/0011-container-with-most-water) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varijadari1028-lang/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/varijadari1028-lang/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varijadari1028-lang/LeetCode/tree/master/0011-container-with-most-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/varijadari1028-lang/LeetCode/tree/master/0011-container-with-most-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
