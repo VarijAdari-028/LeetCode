@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/varijadari1028-lang/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/varijadari1028-lang/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varijadari1028-lang/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/varijadari1028-lang/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Array
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/varijadari1028-lang/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/varijadari1028-lang/LeetCode/tree/master/1563-stone-game-v) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varijadari1028-lang/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
