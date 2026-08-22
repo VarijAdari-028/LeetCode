@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/varijadari1028-lang/LeetCode/tree/master/1563-stone-game-v) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VarijAdari-028/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/varijadari1028-lang/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VarijAdari-028/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
