@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varijadari1028-lang/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/varijadari1028-lang/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/varijadari1028-lang/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/varijadari1028-lang/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/varijadari1028-lang/LeetCode/tree/master/1563-stone-game-v) |
