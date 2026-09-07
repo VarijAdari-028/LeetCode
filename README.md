@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/varijadari1028-lang/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varijadari1028-lang/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/varijadari1028-lang/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/varijadari1028-lang/LeetCode/tree/master/1563-stone-game-v) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VarijAdari-028/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varijadari1028-lang/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/varijadari1028-lang/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varijadari1028-lang/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/varijadari1028-lang/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VarijAdari-028/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/varijadari1028-lang/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/varijadari1028-lang/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
@@ -296,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
