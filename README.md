@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varijadari1028-lang/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0040-combination-sum-ii) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/varijadari1028-lang/LeetCode/tree/master/1563-stone-game-v) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Linked List
 |  |
 | ------- |
