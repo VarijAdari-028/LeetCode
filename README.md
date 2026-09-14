@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varijadari1028-lang/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/varijadari1028-lang/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/varijadari1028-lang/LeetCode/tree/master/0043-multiply-strings) |
+| [0836-rectangle-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/varijadari1028-lang/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/varijadari1028-lang/LeetCode/tree/master/1563-stone-game-v) |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varijadari1028-lang/LeetCode/tree/master/0042-trapping-rain-water) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
