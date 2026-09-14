@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/varijadari1028-lang/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/varijadari1028-lang/LeetCode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/varijadari1028-lang/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/varijadari1028-lang/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/varijadari1028-lang/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/varijadari1028-lang/LeetCode/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/varijadari1028-lang/LeetCode/tree/master/1510-stone-game-iv) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/varijadari1028-lang/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/varijadari1028-lang/LeetCode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/varijadari1028-lang/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
