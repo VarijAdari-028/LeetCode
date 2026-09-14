@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/varijadari1028-lang/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/varijadari1028-lang/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0047-permutations-ii) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VarijAdari-028/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VarijAdari-028/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0047-permutations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varijadari1028-lang/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/varijadari1028-lang/LeetCode/tree/master/3731-find-missing-elements) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/varijadari1028-lang/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0047-permutations-ii) |
 ## Linked List
 |  |
 | ------- |
