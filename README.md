@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varijadari1028-lang/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/varijadari1028-lang/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/varijadari1028-lang/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/varijadari1028-lang/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/varijadari1028-lang/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varijadari1028-lang/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/varijadari1028-lang/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/varijadari1028-lang/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
