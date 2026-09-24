@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/varijadari1028-lang/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/varijadari1028-lang/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/0056-merge-intervals) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/varijadari1028-lang/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/0056-merge-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varijadari1028-lang/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varijadari1028-lang/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -418,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/varijadari1028-lang/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
