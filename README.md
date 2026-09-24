@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/varijadari1028-lang/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/varijadari1028-lang/LeetCode/tree/master/0057-insert-interval) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
