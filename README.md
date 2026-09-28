@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/varijadari1028-lang/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/varijadari1028-lang/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/varijadari1028-lang/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/varijadari1028-lang/LeetCode/tree/master/0060-permutation-sequence) |
 | [0836-rectangle-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/varijadari1028-lang/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/varijadari1028-lang/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/varijadari1028-lang/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/varijadari1028-lang/LeetCode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/varijadari1028-lang/LeetCode/tree/master/0060-permutation-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/varijadari1028-lang/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
