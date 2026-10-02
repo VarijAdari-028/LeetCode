@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/varijadari1028-lang/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/varijadari1028-lang/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/varijadari1028-lang/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/varijadari1028-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/varijadari1028-lang/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
