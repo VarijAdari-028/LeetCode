@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/varijadari1028-lang/LeetCode/tree/master/0066-plus-one) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/varijadari1028-lang/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/varijadari1028-lang/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/varijadari1028-lang/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/varijadari1028-lang/LeetCode/tree/master/0066-plus-one) |
 | [0836-rectangle-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/varijadari1028-lang/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
