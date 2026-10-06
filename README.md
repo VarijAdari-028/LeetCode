@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/varijadari1028-lang/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/varijadari1028-lang/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/varijadari1028-lang/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/varijadari1028-lang/LeetCode/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/varijadari1028-lang/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/varijadari1028-lang/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varijadari1028-lang/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/varijadari1028-lang/LeetCode/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varijadari1028-lang/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VarijAdari-028/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/0056-merge-intervals) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/varijadari1028-lang/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
