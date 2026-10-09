@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varijadari1028-lang/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/varijadari1028-lang/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/varijadari1028-lang/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/varijadari1028-lang/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/varijadari1028-lang/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/varijadari1028-lang/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0940-distinct-subsequences-ii) |
