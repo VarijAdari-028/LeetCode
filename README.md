@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/varijadari1028-lang/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/varijadari1028-lang/LeetCode/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/varijadari1028-lang/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/varijadari1028-lang/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/varijadari1028-lang/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varijadari1028-lang/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VarijAdari-028/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/varijadari1028-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/varijadari1028-lang/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
