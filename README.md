@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/varijadari1028-lang/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/varijadari1028-lang/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/varijadari1028-lang/LeetCode/tree/master/0075-sort-colors) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/varijadari1028-lang/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/varijadari1028-lang/LeetCode/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varijadari1028-lang/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/varijadari1028-lang/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/varijadari1028-lang/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/varijadari1028-lang/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/varijadari1028-lang/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/varijadari1028-lang/LeetCode/tree/master/0075-sort-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/varijadari1028-lang/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varijadari1028-lang/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/varijadari1028-lang/LeetCode/tree/master/0075-sort-colors) |
 ## Newton's Method
 |  |
 | ------- |
@@ -538,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/varijadari1028-lang/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
