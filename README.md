@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/varijadari1028-lang/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/varijadari1028-lang/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/varijadari1028-lang/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/varijadari1028-lang/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/varijadari1028-lang/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/varijadari1028-lang/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/varijadari1028-lang/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/varijadari1028-lang/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1096-brace-expansion-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varijadari1028-lang/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/varijadari1028-lang/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/varijadari1028-lang/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/varijadari1028-lang/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
