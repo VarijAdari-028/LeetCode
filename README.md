@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/varijadari1028-lang/LeetCode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/varijadari1028-lang/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/varijadari1028-lang/LeetCode/tree/master/0078-subsets) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/varijadari1028-lang/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/varijadari1028-lang/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/varijadari1028-lang/LeetCode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/varijadari1028-lang/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VarijAdari-028/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/varijadari1028-lang/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/varijadari1028-lang/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/varijadari1028-lang/LeetCode/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Linked List
