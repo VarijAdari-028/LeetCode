@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/varijadari1028-lang/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/varijadari1028-lang/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/varijadari1028-lang/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/varijadari1028-lang/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/varijadari1028-lang/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/varijadari1028-lang/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/varijadari1028-lang/LeetCode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/varijadari1028-lang/LeetCode/tree/master/0079-word-search) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varijadari1028-lang/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/varijadari1028-lang/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/varijadari1028-lang/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/varijadari1028-lang/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/varijadari1028-lang/LeetCode/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Linked List
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/varijadari1028-lang/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/varijadari1028-lang/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/varijadari1028-lang/LeetCode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/varijadari1028-lang/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/varijadari1028-lang/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
