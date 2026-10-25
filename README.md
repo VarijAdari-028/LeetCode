@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/varijadari1028-lang/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/varijadari1028-lang/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/varijadari1028-lang/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/varijadari1028-lang/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varijadari1028-lang/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/varijadari1028-lang/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/varijadari1028-lang/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/varijadari1028-lang/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/varijadari1028-lang/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varijadari1028-lang/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/varijadari1028-lang/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/varijadari1028-lang/LeetCode/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/varijadari1028-lang/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/VarijAdari-028/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/varijadari1028-lang/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
