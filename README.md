@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/varijadari1028-lang/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/varijadari1028-lang/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/varijadari1028-lang/LeetCode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/varijadari1028-lang/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/varijadari1028-lang/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/varijadari1028-lang/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0940-distinct-subsequences-ii) |
