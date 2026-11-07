@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varijadari1028-lang/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/varijadari1028-lang/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/varijadari1028-lang/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/varijadari1028-lang/LeetCode/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/varijadari1028-lang/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/VarijAdari-028/LeetCode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/varijadari1028-lang/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/varijadari1028-lang/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/varijadari1028-lang/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/varijadari1028-lang/LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/varijadari1028-lang/LeetCode/tree/master/0089-gray-code) |
 | [1386-cinema-seat-allocation](https://github.com/varijadari1028-lang/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/varijadari1028-lang/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/VarijAdari-028/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/varijadari1028-lang/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/varijadari1028-lang/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/varijadari1028-lang/LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/varijadari1028-lang/LeetCode/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Linked List
