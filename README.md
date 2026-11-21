@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/varijadari1028-lang/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/varijadari1028-lang/LeetCode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/varijadari1028-lang/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/varijadari1028-lang/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/varijadari1028-lang/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/varijadari1028-lang/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Linked List
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varijadari1028-lang/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/varijadari1028-lang/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varijadari1028-lang/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/varijadari1028-lang/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varijadari1028-lang/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/varijadari1028-lang/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/varijadari1028-lang/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/varijadari1028-lang/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/varijadari1028-lang/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
